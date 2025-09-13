@@ -1,4 +1,4 @@
 print("hello")
-print("dev")
+print("dev-no-fast")
 print("master and feature")
 
